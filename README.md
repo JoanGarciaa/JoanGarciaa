@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Joan Garcia 👋</h1>
 </div>
 
-<img src="[https://i.imgur.com/weNbhGZ.png](https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png)">
+<img src="https://1.bp.blogspot.com/-nYoXkKYqPbM/XmlGfH2JyfI/AAAAAAAAOvM/VZagj9-mJeE_I33RCxltSYI9p7SZC9udgCLcBGAsYHQ/s1600/AD%2BBlogger.png">
 
 ## About me
 
